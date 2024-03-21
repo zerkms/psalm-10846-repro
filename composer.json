@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Zerkms\\": "src/"
+        }
+    },
+    "require-dev": {
+        "vimeo/psalm": "5.23.1"
+    }
+}
